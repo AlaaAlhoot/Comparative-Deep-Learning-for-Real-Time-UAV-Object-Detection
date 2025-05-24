@@ -1,6 +1,6 @@
 <!-- Project Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/banner-uav.png" alt="UAV Object Detection" width="100%" />
+  <img src="banner.png" alt="UAV Object Detection" width="100%" />
 </p>
 
 <h1 align="center">📡 UAV Object Detection: YOLO vs Faster R-CNN vs SSD</h1>
